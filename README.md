@@ -14,4 +14,3 @@ npm run dev
 - Interactive map with user location
 - Weather data from Open-Meteo API
 - Click to add markers
-- Adjustable radius circle
